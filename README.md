@@ -24,6 +24,6 @@ https://random.studio/
 ### studiometa
 http://www.studiometa.fr/en/  
 얇은 선이 들어간 배경이 매우 감각적이며 페이지를 내릴 때 마다 흰색, 검은색으로 배경이 바뀌는 것이 정말 멋지다.  
-<div style="box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);">
+<div style="box-shadow: 10px 10px 5px #ccc;">
 <img src="https://user-images.githubusercontent.com/29882066/86110031-01a1da80-bb00-11ea-8695-5a9de95afdd4.png" width="99%" "/>
 </div>                                                                                                                            
