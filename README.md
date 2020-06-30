@@ -15,3 +15,13 @@ https://pollenlondon.com/
 https://parall.ax/expertise  
 보라색 포인트 색상이 매우 깔끔하게 사용되었고 애니메이션이 매우 부드럽다.  
 <img src="https://user-images.githubusercontent.com/29882066/86108522-39a81e00-bafe-11ea-9c49-a7f79a7c4465.png" width="99%"/> 
+
+### random.studio
+https://random.studio/ 
+흰 바탕과 적절한 여백이 마치 전시전을 보는 것 같다.
+<img src="https://user-images.githubusercontent.com/29882066/86109015-dec2f680-bafe-11ea-9ddd-7e70e6f17f47.png" width="99%"/> 
+
+### studiometa
+http://www.studiometa.fr/en/
+얇은 선이 들어간 배경이 매우 감각적이며 페이지를 내릴 때 마다 흰색, 검은색으로 배경이 바뀌는 것이 정말 멋지다.
+<img src="https://user-images.githubusercontent.com/29882066/86109015-dec2f680-bafe-11ea-9ddd-7e70e6f17f47.png" width="99%"/> 
